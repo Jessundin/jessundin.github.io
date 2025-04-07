@@ -1,9 +1,9 @@
 {
-  "homepage": "https://jessundin.github.io/index.html",
   "name": "fake-store",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jessundin.github.io/jessundin.github.io/index.html",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
